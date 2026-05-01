@@ -7,14 +7,6 @@ I design systems that **capture, validate, and transform it into decisions**.
 ---
 
 ## 🧠 What I Do
-
-Think of a business as a machine:
-- Data = raw material  
-- Processes = transformation  
-- Reports = output  
-
-I build the **mechanisms in between**.
-
 - 📊 Data analysis & modeling  
 - ⚙️ Process automation  
 - 🏗️ Internal tools & systems  
@@ -47,10 +39,7 @@ Production and reporting system for a sawmill
 
 ## 🎯 Current Focus
 
-- Building **reliable data pipelines** for real-world operations  
-- Designing systems that reduce **human error in production workflows**  
-- Applying analytics to **profitability and decision-making**  
-
+- Building **AI-Agent** for real-world operations  
 ---
 
 ## ⚡ Philosophy

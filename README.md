@@ -36,26 +36,12 @@ Production and reporting system for a sawmill
 
 ## 🧩 Tech Stack
 
-### Languages
-- Python  
-- R  
-- SQL  
-- Typescript  
-
-### Frontend & Backend
-- React / Next.js
-- Node.js / Express
-- Prisma
-- REST APIs
-
-### Data & Tools
-- Metabase
-- Power BI 
-
-### Infrastructure
-- AWS (EC2, RDS)  
-- Docker  
-- Linux  
+| Category | Stack |
+|---|---|
+| Languages | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![R](https://img.shields.io/badge/R-276DC3?style=flat&logo=r&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-336791?style=flat&logo=postgresql&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white) |
+| Frontend & Backend | ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB) ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white) ![Express](https://img.shields.io/badge/Express-EEEEEE?style=flat&logo=express&logoColor=000000) ![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat&logo=prisma&logoColor=white) ![REST APIs](https://img.shields.io/badge/REST_APIs-005571?style=flat&logo=fastapi&logoColor=white) |
+| Data & Tools | ![Metabase](https://img.shields.io/badge/Metabase-509EE3?style=flat&logo=metabase&logoColor=white) ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat&logo=powerbi&logoColor=000000) |
+| Infrastructure | ![AWS](https://img.shields.io/badge/AWS_EC2_RDS-232F3E?style=flat&logo=amazonaws&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=000000) |
 
 ---
 

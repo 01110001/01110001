@@ -4,7 +4,7 @@ I’m a **Data Analyst and Systems Builder** focused on automation, structured d
 
 I design systems that **capture, validate, and transform it into decisions**.
 
----
+
 
 ## 🧠 What I Do
 - 📊 Data analysis & modeling  
@@ -13,12 +13,12 @@ I design systems that **capture, validate, and transform it into decisions**.
 - 🔗 API integrations  
 - 📈 Decision-support systems  
 
----
+
 
 ## 🎯 Current Focus
 
 - Building **AI-Agent** for real-world operations  
----
+
 
 ## ⚡ Philosophy
 
@@ -29,4 +29,4 @@ I aim to build tools that are:
 - Reliable  
 - Actionable  
 
----
+

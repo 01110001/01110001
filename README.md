@@ -1,9 +1,6 @@
 # 👋 Hi, I'm Maksandr
 
-I’m a **Data Analyst and Systems Builder** focused on automation, structured data, and operational efficiency.
-
-I design systems that **capture, validate, and transform it into decisions**.
-
+I build stuff that work.
 
 
 ## 🧠 What I Do
